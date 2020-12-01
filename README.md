@@ -46,3 +46,5 @@ As you have succesfully booked the Hotel room now if you again want to book the 
 
 ![](images/7.png)
 
+This was just a in-browser Demo !! A backend smart contract, work is still left to do here 
+
