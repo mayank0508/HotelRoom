@@ -19,7 +19,9 @@ Copy the exact code in REMIX
 ## Step 3 ⭐
 Go and compile the code with the compilers versoin of ^0.6.0 or better !
 
+
 ![](images/3.png)
+
 
 ## Step 4 ⭐
 Then deploy the current contract !
