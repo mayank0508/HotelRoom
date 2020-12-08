@@ -42,7 +42,9 @@ Initally click at owner that will give you your address, then change the **Accou
 Change the **Amount** to 2 ether and then press **Transact button** again.
 ##*The result will show succesfull because of enough amount given*
 
+
 ![](images/6.png)
+
 
 ## Step 7 ⭐
 There is another case:-
