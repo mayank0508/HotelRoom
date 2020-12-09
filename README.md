@@ -9,7 +9,7 @@ TO USE THIS CODE TO FULL EFFECT YOU HAVE TO GO THROUGH THIS README FILE.
 
 ## Here are the *Steps* 🤘🏻
 ## Step 1 ⭐
-Copy and paste this code in "https://remix.ethereum.org/"
+Copy and paste this code  in "https://remix.ethereum.org/"
 
 ![](images/1.png)
 
