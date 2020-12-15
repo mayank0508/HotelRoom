@@ -25,12 +25,12 @@ Go and compile the code with the compilers versoin of ^0.6.0 or better !
 ![](images/3.png)
 
 
-## Step 4 ⭐
+## Step 4  ⭐
 Then deploy the current contract !
 
 ![](images/4.png)
 
-## Step 5 ⭐
+## Step 5  ⭐
 Initally click at owner that will give you your address, then change the **Account** and then set it to **1 ether** and then click at the **Transact buttopn**
 ##*The result will showed failed because of not enoght amount given*
 
@@ -38,7 +38,7 @@ Initally click at owner that will give you your address, then change the **Accou
 ![](images/5.png)
 
 
-## Step 6 ⭐
+## Step 6  ⭐
 Change the **Amount** to 2 ether and then press **Transact button** again.
 ##*The result will show succesfull because of enough amount given*
 
