@@ -46,7 +46,7 @@ Change the **Amount** to 2 ether and then press **Transact button** again.
 ![](images/6.png)
 
 
-## Step 7 ⭐
+## Step 7  ⭐
 There is another case:-
 As you have succesfully booked the Hotel room now if you again want to book the same room, then the *transaction failed*
 
