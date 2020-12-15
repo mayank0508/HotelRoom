@@ -8,12 +8,12 @@ TO USE THIS CODE TO FULL EFFECT YOU HAVE TO GO THROUGH THIS README FILE.
 
 
 ## Here are the *Steps* 🤘🏻
-## Step 1 ⭐
+## Step 1  ⭐
 Copy and paste this code  in "https://remix.ethereum.org/"
 
 ![](images/1.png)
 
-## Step 2 ⭐
+## Step 2  ⭐
 Copy the exact code in REMIX.
 
 ![](images/2.png)
