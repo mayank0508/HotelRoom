@@ -18,7 +18,7 @@ Copy the exact code in REMIX.
 
 ![](images/2.png)
 
-## Step 3 ⭐
+## Step 3  ⭐
 Go and compile the code with the compilers versoin of ^0.6.0 or better !
 
 
