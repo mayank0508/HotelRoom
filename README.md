@@ -32,7 +32,6 @@ Then deploy the current contract !
 Initally click at owner that will give you your address, then change the **Account** and then set it to **1 ether** and then click at the **Transact buttopn**
 ##*The result will showed failed because of not enoght amount given*
 
-
 ![](images/5.png)
 
 
