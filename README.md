@@ -14,7 +14,6 @@ Copy and paste this code  in "https://remix.ethereum.org/"
 
 ## Step 2  ⭐
 Copy the exact code in REMIX.
-
 ![](images/2.png)
 
 ## Step 3  ⭐
